@@ -7,6 +7,17 @@ import sqlite3
 # git config --global user.name "FIRST_NAME LAST_NAME"
 # git config --global user.email "MY_NAME@example.com"
 
+# create account in github
+# create repository
+# git add .
+# git status => check what happening in our files
+# git commit -m "commit message"
+# copy paste from github
+
+
+# git add .
+# git commit -m "Your commit message"
+# git push origin
 
 def create_connection():
     try:
